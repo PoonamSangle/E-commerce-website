@@ -1,0 +1,2349 @@
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d86c"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 38.94, 
+    "shippingcost" : NumberInt(35), 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Eldon Base for stackable storage shelf, platinum", 
+    "description" : "\"\"", 
+    "image1" : "\"\"", 
+    "image2" : "\"\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d86d"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 208.16, 
+    "shippingcost" : 68.02, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "1.7 Cubic Foot Compact "
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d86e"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 195.99, 
+    "shippingcost" : 3.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "R380", 
+    "description" : "\"Released 2000.164g, 26mm thickness.Feature phone.No card slot.", 
+    "image1" : "\"https://i.ytimg.com/vi/I4JBoue2DUs/maxresdefault.jpg", 
+    "image2" : "\"http://www.gsmhistory.com/wp-content/uploads/2013/01/Fig-24-ericsson-r380-rev1.jpg"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d86f"), 
+    "quantity" : NumberInt(19), 
+    "cost" : 21.78, 
+    "shippingcost" : 5.94, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Holmes HEPA Air Purifier", 
+    "description" : "\"HEPA type filter helps remove up to 99% of airborne particles as small as 2 microns from the air passing through it 3 speed", 
+    "image1" : "\"https://www.allergytech.com/images/HAP625lrg.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d870"), 
+    "quantity" : NumberInt(21), 
+    "cost" : 6.64, 
+    "shippingcost" : 4.95, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "G.E. Longer-Life Indoor Recessed Floodlight Bulbs", 
+    "description" : "\"a full range of GE energy-efficient halogen and long-lasting energy smart® CFL bulbs and ... you can save around your home with the GE energy saving calculator", 
+    "image1" : "\"https://i5.walmartimages.com/asr/98f9e90c-9c25-4977-9d35-e8c5ba079d5f_1.c03699170a48b6e444bea0878e1e5621.jpeg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d871"), 
+    "quantity" : NumberInt(12), 
+    "cost" : 7.3, 
+    "shippingcost" : 7.72, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Angle-D Binders with Locking Rings, Label Holders", 
+    "description" : "\"Fits top loading sheet protectors and oversized indexes with ease and it has the same height as regular binders.", 
+    "image1" : "\"http://prodimage.images-bn.com/pimages/0777780017886_p0_v2_s550x406.jpg", 
+    "image2" : "\"http://scene7.samsclub.com/is/image/samsclub/0005036217654_A?$img_size_380x380$"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d872"), 
+    "quantity" : NumberInt(22), 
+    "cost" : 42.76, 
+    "shippingcost" : 6.22, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "SAFCO Mobile Desk Side File, Wire Frame", 
+    "description" : "\"\"Mobile file cart; Desk side file; Accommodates letter or legal-size folders; ¾\"\" tubular steel frame with wire file supports; Lipped bottom shelf securely holds\"", 
+    "image1" : "\"http://i.ebayimg.com/00/s/NDUwWDM0OQ==/z/cR4AAOSwCGVX-lTY/$_35.JPG?set_id=8800005007", 
+    "image2" : "\"https://i5.walmartimages.com/asr/8c469bb2-ddfb-4803-a6d0-8c3e26631edb_1.0181ca7011c454a46cf21eda7ea053c9.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d873"), 
+    "quantity" : NumberInt(21), 
+    "cost" : 138.14, 
+    "shippingcost" : NumberInt(35), 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "SAFCO Commercial Wire Shelving, Black", 
+    "description" : "\"\"Commercial Wire Shelving 36\"\"W x 18\"\"D Basic Unit (Extra Shelves 5243BL sold separately)\"", 
+    "image1" : "\"https://images-na.ssl-images-amazon.com/images/I/41T7GPV6slL._SY300_.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d874"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 4.98, 
+    "shippingcost" : 8.33, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Xerox 198", 
+    "description" : "\"Taking inbound and outbound calls and emails from Finland and UK lines. - Technical printer and multifunction device support for business customers.", 
+    "image1" : "\"http://media.webcollage.net/rwvfp/wc/live/21840401/module/xerox//_wc/cp/products/1422975844034/tab-133e1821-f802-4ff3-8c3a-024363b5587d/resource-4f057bf8-530d-48db-addf-4b3d02754ef8.jpg.w960.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d875"), 
+    "quantity" : NumberInt(45), 
+    "cost" : 4.28, 
+    "shippingcost" : 6.18, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Xerox 1980", 
+    "description" : "\"The Xerox 9700 Electronic Printing System is a 300dpi duplex Xerographic (Laser) printer operating at 2 pages per second (120 cut sheets per minute in simplex mode) with raster font selection and forms capabilities. It as introduced in 1977 and for many years was the premier high volume page printer.", 
+    "image1" : "\"http://lowres-picturecabinet.com.s3-eu-west-1.amazonaws.com/43/main/13/91814.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d876"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 3.95, 
+    "shippingcost" : NumberInt(2), 
+    "category" : "Office Supplies", 
+    "subcategory" : "Rubber Bands", 
+    "name" : "Advantus Map Pennant Flags and Round Head Tacks", 
+    "description" : "\"Triangular map flags in bright colors.25 each of red, white and blue (75 total flags)", 
+    "image1" : "\"https://images-na.ssl-images-amazon.com/images/I/41Zrh1v7dCL._SY300_.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d877"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 21.78, 
+    "shippingcost" : 5.94, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "DS/HD IBM Formatted Diskettes, 200/Pack - Staples", 
+    "description" : "\"\"Sold as 50 EA.3.5\"\" IBM Format\"", 
+    "image1" : "\"http://ws2.primaimages.co.uk/?u=eDUlY67eQvHxkNoJdREl1cvp90uhF0-WXqckGe1x13-yYraWrw9p8KCHe2FCtYp3aPp9NNmw6y3XBrx3WytA64T2UAcIrsxcUuDKqfhWLvAkvHbXVCcIvvotp0bSqL6E3lcyeK_1iEuMF6HeDxuUB6xkb1DNOa7ZnsEh3DmUt1Y,", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d878"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 47.98, 
+    "shippingcost" : 3.61, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Ultra Commercial Grade Dual Valve Door Closer", 
+    "description" : "\"Universal application, non-handed for standard top jamb, parallel or corner bracket", 
+    "image1" : "\"https://images-na.ssl-images-amazon.com/images/I/31aV5tOTnPL._SY355_.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d879"), 
+    "quantity" : NumberInt(46), 
+    "cost" : 39.89, 
+    "shippingcost" : 3.04, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "#10-4 1/8"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d87a"), 
+    "quantity" : NumberInt(16), 
+    "cost" : 15.74, 
+    "shippingcost" : 1.39, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Envelopes", 
+    "name" : "Hon 4-Shelf Metal Bookcases", 
+    "description" : "\"HON Brigade Steel Bookcase 4 Shelves 59 H x 34 12 W x 12 58 D Charcoal, Each shelf is 12 58 deep and easily adjusts in 12 increments", 
+    "image1" : "\"http://scene7.samsclub.com/is/image/samsclub/0064112872058_A?$img_size_380x380$", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d87b"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 100.98, 
+    "shippingcost" : 26.22, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table", 
+    "description" : "\"Cherry Lesro Lenox Coffee Table with Black Melamine Top The ... Lesro Lenox Series Guest Chairs with Solid Wood Connecting Corner Table, L2122G5 ", 
+    "image1" : "\"http://cdn3.bigcommerce.com/s-lpku7oc/products/1028/images/11043/lesro_weston_end_table__09237.1440788183.356.300.jpg?c=2", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d87c"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 71.37, 
+    "shippingcost" : NumberInt(69), 
+    "category" : "Furniture", 
+    "subcategory" : "Tables", 
+    "name" : "g520", 
+    "description" : "\"the G520 runs Android 4.0 Ice Cream Sandwich on a 1.2GHz quad-core Mediatek MT6589 chip with 512MB of RAM", 
+    "image1" : "\"http://chinagadgetsreviews.com/wp-content/uploads/2015/03/huaweiG20.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d87d"), 
+    "quantity" : NumberInt(15), 
+    "cost" : 65.99, 
+    "shippingcost" : 5.26, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "LX 788", 
+    "description" : "\"Incredibly light and compact flip phone. - Offers 1 hr 45min talk time and 43hrs", 
+    "image1" : "\"http://ep.yimg.com/ay/wearethewirelessboys/ericsson-af738-af788-cf768-cf788-lx788-kf788-accessories-6.gif", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d87e"), 
+    "quantity" : NumberInt(18), 
+    "cost" : 155.99, 
+    "shippingcost" : 8.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Avery 52", 
+    "description" : "\"When your labels need to stand up against tough weather and temperature conditions, count on AveryWeatherProof labels. Labels stick firmly", 
+    "image1" : "\"http://www.conrad.com/medias/global/ce/8000_8999/8800/8830/8832/883281_BB_00_FB.EPS_1000.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d87f"), 
+    "quantity" : NumberInt(13), 
+    "cost" : 3.69, 
+    "shippingcost" : 0.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Plymouth Boxed Rubber Bands by Plymouth", 
+    "description" : "\"Boxed Rubber Bands100% rubber; meets or exceeds all federal specifications.", 
+    "image1" : "\"http://i.ebayimg.com/images/g/7aYAAOSwo3pWeajm/s-l300.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d880"), 
+    "quantity" : NumberInt(21), 
+    "cost" : 4.71, 
+    "shippingcost" : 0.7, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Rubber Bands", 
+    "name" : "GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d881"), 
+    "quantity" : NumberInt(33), 
+    "cost" : 15.99, 
+    "shippingcost" : 13.18, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Maxell 3.5"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d882"), 
+    "quantity" : NumberInt(38), 
+    "cost" : 4.89, 
+    "shippingcost" : 4.93, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Newell 335", 
+    "description" : "\"Econo Power Fishing Reel Bearing Kits are the most affordable way to replace stock bearings. These bearings are ABEC #5 tolerances with stainless steel races, balls, retainers and shields. All Econo fishing reel bearings are supplied dry, no grease or oil. Lube can be added upon reques", 
+    "image1" : "\"http://www.stripersonline.com/surftalk/uploads/monthly_01_2016/post-43760-0-75644100-1452718987.jpeg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d883"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 2.88, 
+    "shippingcost" : 0.7, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Canon PC940 Copier", 
+    "description" : "\"The PC940 offers legal-size convenience, a 250-sheet front-loading cassette and ... productivity make the PC940 the perfect copier for all your copying needs", 
+    "image1" : "\"http://salestores.com/stores/images/images_747/PC980.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d884"), 
+    "quantity" : NumberInt(25), 
+    "cost" : 449.99, 
+    "shippingcost" : NumberInt(49), 
+    "category" : "Technology", 
+    "subcategory" : "Copiers and Fax", 
+    "name" : "Tenex Personal Project File with Scoop Front Design, Black", 
+    "description" : "\"", 
+    "image1" : "\"", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d885"), 
+    "quantity" : NumberInt(28), 
+    "cost" : 13.48, 
+    "shippingcost" : 4.51, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Imation 3.5"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d886"), 
+    "quantity" : NumberInt(10), 
+    "cost" : 5.98, 
+    "shippingcost" : 4.38, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11", 
+    "description" : "\"2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11", 
+    "image1" : "\"http://www.armyproperty.com/images/ComputerPaper13.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d887"), 
+    "quantity" : NumberInt(21), 
+    "cost" : 40.99, 
+    "shippingcost" : 19.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Self-Adhesive Address Labels for Typewriters by Universal", 
+    "description" : "\"Removable Self-Adhesive Multi-Use Labels, 1 x 3, White, 250/Pack · UNV50110 ... $6.40 PK · Recycled Address Labels, 1 x 2-5/8, White, 300/Pack", 
+    "image1" : "\"https://content.oppictures.com/Master_Images/Master_Variants/Variant_1500/242963.JPG", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d888"), 
+    "quantity" : NumberInt(39), 
+    "cost" : 7.31, 
+    "shippingcost" : 0.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Accessory37", 
+    "description" : "\"Beistle 50202 Spring Border Trim, 37 feet. Creates a total of 37 feet of trim. This border trim is flat on one edge and wavy on the other edge", 
+    "image1" : "\"http://www.masterfoto.lv/44816-large_default/Marumi-Step-down-Ring-Lens-52-mm-to-Accessory-37-mm.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d889"), 
+    "quantity" : NumberInt(24), 
+    "cost" : 20.99, 
+    "shippingcost" : 2.5, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Fuji 5.2GB DVD-RAM", 
+    "description" : "\"Supports transfer speeds up to 3.0 MB/second", 
+    "image1" : "\"https://images-na.ssl-images-amazon.com/images/I/41CCNTTDY3L._SY450_.jpg", 
+    "image2" : "\"http://rcdn-4.fishpond.co.nz/0045/613/770/167321734/5.jpeg"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d88a"), 
+    "quantity" : NumberInt(27), 
+    "cost" : 40.96, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Bevis Steel Folding Chairs", 
+    "description" : "\"These durable and lightweight folding chairs offer countless uses. These chairs come in handy in just about any situation that calls for extra seating.", 
+    "image1" : "\"https://i5.walmartimages.com/asr/dd9bde26-6f60-436e-ad1b-a2f6866dc764_1.5f2493c03cceceb3c23b187fd1c9e740.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d88b"), 
+    "quantity" : NumberInt(39), 
+    "cost" : 95.95, 
+    "shippingcost" : 74.35, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Avery Binder Labels", 
+    "description" : "\"Binder Spine Inserts, assorted sizes, 12 per sheet ... Template. Binder Spine Label, assorted sizes,", 
+    "image1" : "\"http://www.staples-3p.com/s7/is/image/Staples/s0075252_sc7?$splssku$", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d88c"), 
+    "quantity" : NumberInt(47), 
+    "cost" : 3.89, 
+    "shippingcost" : 7.01, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "IBM Multi-Purpose Copy Paper, 8 1/2 x 11"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d88d"), 
+    "quantity" : NumberInt(18), 
+    "cost" : 30.98, 
+    "shippingcost" : 5.76, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Computer Printout Paper with Letter-Trim Perforations", 
+    "description" : "\"Computer Printout Paper with Letter-Trim Perforations, 2300 Shts/Crtn, 18 lbs", 
+    "image1" : "\"http://content.oppictures.com/Master_Images/Master_Variants/Variant_500/208209.JPG", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d88e"), 
+    "quantity" : NumberInt(21), 
+    "cost" : 18.97, 
+    "shippingcost" : 9.03, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "6160", 
+    "description" : "\"The 6160 Deluxe Keypad is easy to install and simple to use. The attractive white console blends with any décor and features a contoure", 
+    "image1" : "\"https://i.ytimg.com/vi/OWbPjs-LBLE/maxresdefault.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d88f"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 115.99, 
+    "shippingcost" : 2.5, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Avery 49", 
+    "description" : "\"Rip Proof™ reinforced, dual-sided, laminated tabs make it easy to organize your information. The binding edge is unpunched, so these dividers can fit practically any binding system. Ideal for briefs, legal exhibits, mortgage documentation files and more! Avery® Style is Helvetica bold type style and Allstate® Style is Helvetica regular type style. Tab Style: 1-Tab; Tab Color(s): White; Index Divider Size: 11 x 8 1/2", 
+    "image1" : "\"https://images-na.ssl-images-amazon.com/images/I/81bl4CyfkSL._SL1500_.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d890"), 
+    "quantity" : NumberInt(5), 
+    "cost" : 2.88, 
+    "shippingcost" : 0.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Timeport L7089", 
+    "description" : "\"The Motorola Timeport is a series of candybar and flip mobile phones manufactured by Motorola. They were first released in 1999.", 
+    "image1" : "\"http://www.extragsm.com/images/phone/big/Motorola/Timeport%20L7089/Motorola-Timeport-L7089-01.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d891"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 125.99, 
+    "shippingcost" : 7.69, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Avery 510", 
+    "description" : "\"Avery has dozens of shipping label templates and other styles to choose from. There are even address label templates for your business", 
+    "image1" : "\"http://images.ffis.co.uk/images/products/zoom/1380273451-50401500.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d892"), 
+    "quantity" : NumberInt(50), 
+    "cost" : 3.75, 
+    "shippingcost" : 0.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Xerox 1881", 
+    "description" : "\"op tier quality cores, (#2) Proprietary sterilization and automated manufacturing, (#3) Highest quality toner and ink, and We apply additional pre packaging tests to assure we send a working cartridge", 
+    "image1" : "\"https://www.gmsupplies.com/globalassets/products/xerox-pics/016-1881-00.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d893"), 
+    "quantity" : NumberInt(3), 
+    "cost" : 12.28, 
+    "shippingcost" : 6.47, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Memorex 4.7GB DVD-RAM, 3/Pack", 
+    "description" : "\"Verbatim 95165 8.5 GB 2x-4x Double Layer Recordable Disc DVD-R, 3-Disc Jewel Case ... Innovera DVD-RW Discs, 4.7GB, 4x, Spindle, Silver, 25/Pack", 
+    "image1" : "\"https://images-na.ssl-images-amazon.com/images/I/219VMKK5S2L._AC_UL320_SR228,320_.jpg", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d894"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 155.99, 
+    "shippingcost" : 8.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Unpadded Memo Slips", 
+    "description" : "\"\" Unpadded Memo Slips, 4\"\" x 6\"\" ... Unpadded slips; 4\"\" x 6\"\" - size is approximate; 500 Sheets/pack\"", 
+    "image1" : "\"http://www.staples-3p.com/s7/is/image/Staples/s0274467_sc7?$splssku$", 
+    "image2" : "\""
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d895"), 
+    "quantity" : NumberInt(42), 
+    "cost" : 31.78, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d896"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 3.98, 
+    "shippingcost" : 2.97, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d897"), 
+    "quantity" : NumberInt(22), 
+    "cost" : 5.88, 
+    "shippingcost" : 3.04, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "SANFORD Liquid Accent� Tank-Style Highlighters"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d898"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 7.99, 
+    "shippingcost" : 5.03, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Col-Erase Pencils with Erasers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d899"), 
+    "quantity" : NumberInt(7), 
+    "cost" : 58.1, 
+    "shippingcost" : 1.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Global Troy� Executive Leather Low-Back Tilter"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d89a"), 
+    "quantity" : NumberInt(3), 
+    "cost" : 80.48, 
+    "shippingcost" : 4.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "XtraLife ClearVue� Slant-D Ring Binders by Cardinal"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d89b"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 92.23, 
+    "shippingcost" : 39.61, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Hoover Portapower� Portable Vacuum"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d89c"), 
+    "quantity" : NumberInt(25), 
+    "cost" : 85.99, 
+    "shippingcost" : 0.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Wilson Jones 1"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d89d"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 1637.53, 
+    "shippingcost" : 24.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Scissors, Rulers and Trimmers", 
+    "name" : "Hon Every-Day Chair Series Swivel Task Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d89e"), 
+    "quantity" : NumberInt(40), 
+    "cost" : 6.48, 
+    "shippingcost" : 6.65, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Cardinal Slant-D� Ring Binder, Heavy Gauge Vinyl"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d89f"), 
+    "quantity" : NumberInt(18), 
+    "cost" : 6.48, 
+    "shippingcost" : 7.86, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Wilson Jones 1"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a0"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 28.15, 
+    "shippingcost" : 8.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "SANFORD Liquid Accent� Tank-Style Highlighters"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a1"), 
+    "quantity" : NumberInt(41), 
+    "cost" : 4.98, 
+    "shippingcost" : 4.75, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Col-Erase� Pencils with Erasers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a2"), 
+    "quantity" : NumberInt(47), 
+    "cost" : 6.35, 
+    "shippingcost" : 1.02, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Hon Every-Day� Chair Series Swivel Task Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a3"), 
+    "quantity" : NumberInt(18), 
+    "cost" : 7.3, 
+    "shippingcost" : 7.72, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Global Troy� Executive Leather Low-Back Tilter"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a4"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 39.48, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "XtraLife� ClearVue� Slant-D� Ring Binders by Cardinal"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a5"), 
+    "quantity" : NumberInt(5), 
+    "cost" : 100.98, 
+    "shippingcost" : 57.38, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Hoover Portapower� Portable Vacuum"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a6"), 
+    "quantity" : NumberInt(41), 
+    "cost" : 19.98, 
+    "shippingcost" : 10.49, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Eldon Expressions� Desk Accessory, Wood Pencil Holder, Oak"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a7"), 
+    "quantity" : NumberInt(22), 
+    "cost" : 276.2, 
+    "shippingcost" : 24.49, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Personal Creations� Ink Jet Cards and Labels"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a8"), 
+    "quantity" : NumberInt(50), 
+    "cost" : 15.67, 
+    "shippingcost" : 1.39, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Envelopes", 
+    "name" : "Crate-A-Files�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8a9"), 
+    "quantity" : NumberInt(37), 
+    "cost" : 25.98, 
+    "shippingcost" : 5.37, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Staples� General Use 3-Ring Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8aa"), 
+    "quantity" : NumberInt(4), 
+    "cost" : 300.98, 
+    "shippingcost" : 64.73, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Acco Smartsocket� Table Surge Protector, 6 Color-Coded Adapter Outlets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ab"), 
+    "quantity" : NumberInt(19), 
+    "cost" : 19.98, 
+    "shippingcost" : 5.97, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Hon 4070 Series Pagoda� Round Back Stacking Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ac"), 
+    "quantity" : NumberInt(24), 
+    "cost" : 6.48, 
+    "shippingcost" : 7.03, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Lifetime Advantage� Folding Chairs, 4/Carton"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ad"), 
+    "quantity" : NumberInt(40), 
+    "cost" : 80.98, 
+    "shippingcost" : NumberInt(35), 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Linden� 12"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ae"), 
+    "quantity" : NumberInt(41), 
+    "cost" : 6.48, 
+    "shippingcost" : 5.86, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "GBC Twin Loop� Wire Binding Elements, 9/16"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8af"), 
+    "quantity" : NumberInt(35), 
+    "cost" : 102.3, 
+    "shippingcost" : 21.26, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Polycom ViewStation� Adapter H323 Videoconferencing Unit"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b0"), 
+    "quantity" : NumberInt(42), 
+    "cost" : 6.48, 
+    "shippingcost" : 8.19, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon� Wave Desk Accessories"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b1"), 
+    "quantity" : NumberInt(46), 
+    "cost" : 1.89, 
+    "shippingcost" : 0.76, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Rubber Bands", 
+    "name" : "Surelock� Post Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b2"), 
+    "quantity" : NumberInt(7), 
+    "cost" : 279.48, 
+    "shippingcost" : NumberInt(35), 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Colorific� Watercolor Pencils"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b3"), 
+    "quantity" : NumberInt(5), 
+    "cost" : 18.97, 
+    "shippingcost" : 5.21, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Hon 4700 Series Mobuis� Mid-Back Task Chairs with Adjustable Arms"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b4"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 48.91, 
+    "shippingcost" : 5.81, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon Econocleat� Chair Mats for Low Pile Carpets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b5"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 4.13, 
+    "shippingcost" : 0.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Speediset Carbonless Redi-Letter� 7"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b6"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 140.98, 
+    "shippingcost" : 53.48, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "SANFORD Major Accent� Highlighters"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b7"), 
+    "quantity" : NumberInt(34), 
+    "cost" : 50.98, 
+    "shippingcost" : 6.5, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Polycom ViaVideo� Desktop Video Communications Unit"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b8"), 
+    "quantity" : NumberInt(1), 
+    "cost" : 10.14, 
+    "shippingcost" : 2.27, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Peel & Seel� Recycled Catalog Envelopes, Brown"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8b9"), 
+    "quantity" : NumberInt(50), 
+    "cost" : 15.99, 
+    "shippingcost" : 13.18, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Standard Line� �While You Were Out� Hardbound Telephone Message Book"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ba"), 
+    "quantity" : NumberInt(29), 
+    "cost" : 262.11, 
+    "shippingcost" : 62.74, 
+    "category" : "Furniture", 
+    "subcategory" : "Tables", 
+    "name" : "Fellowes Staxonsteel� Drawer Files"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8bb"), 
+    "quantity" : NumberInt(46), 
+    "cost" : 1.76, 
+    "shippingcost" : 0.7, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Memo Book, 100 Message Capacity, 5 3/8� x 11�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8bc"), 
+    "quantity" : NumberInt(15), 
+    "cost" : 19.84, 
+    "shippingcost" : 4.1, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Acme� 8"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8bd"), 
+    "quantity" : NumberInt(20), 
+    "cost" : 19.98, 
+    "shippingcost" : 5.77, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Heavy-Duty E-Z-D� Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8be"), 
+    "quantity" : NumberInt(14), 
+    "cost" : 95.99, 
+    "shippingcost" : 8.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Wilson Jones DublLock� D-Ring Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8bf"), 
+    "quantity" : NumberInt(48), 
+    "cost" : 111.03, 
+    "shippingcost" : 8.64, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Global Comet� Stacking Armless Chair"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c0"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 43.41, 
+    "shippingcost" : 2.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Hon 4070 Series Pagoda� Armless Upholstered Stacking Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c1"), 
+    "quantity" : NumberInt(15), 
+    "cost" : 105.34, 
+    "shippingcost" : 24.49, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Acco Perma� 2700 Stacking Storage Drawers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c2"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 3.69, 
+    "shippingcost" : 0.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Fellowes Stor/Drawer� Steel Plus� Storage Drawers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c3"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 146.34, 
+    "shippingcost" : 43.75, 
+    "category" : "Furniture", 
+    "subcategory" : "Tables", 
+    "name" : "Array� Memo Cubes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c4"), 
+    "quantity" : NumberInt(4), 
+    "cost" : 15.7, 
+    "shippingcost" : 11.25, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Pizazz� Global Quick File�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c5"), 
+    "quantity" : NumberInt(26), 
+    "cost" : 179.29, 
+    "shippingcost" : 29.21, 
+    "category" : "Furniture", 
+    "subcategory" : "Tables", 
+    "name" : "Snap-A-Way� Black Print Carbonless Speed Message, No Reply Area, Duplicate"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c6"), 
+    "quantity" : NumberInt(46), 
+    "cost" : 200.99, 
+    "shippingcost" : 8.08, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Eureka Disposable Bags for Sanitaire� Vibra Groomer I� Upright Vac"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c7"), 
+    "quantity" : NumberInt(23), 
+    "cost" : 194.3, 
+    "shippingcost" : 11.54, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Eldon Cleatmat� Chair Mats for Medium Pile Carpets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c8"), 
+    "quantity" : NumberInt(25), 
+    "cost" : 120.97, 
+    "shippingcost" : 7.11, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "ACCOHIDE� 3-Ring Binder, Blue, 1"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8c9"), 
+    "quantity" : NumberInt(5), 
+    "cost" : 5.81, 
+    "shippingcost" : 8.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Honeywell Enviracaire� Portable Air Cleaner for up to 8 x 10 Room"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ca"), 
+    "quantity" : NumberInt(24), 
+    "cost" : 226.67, 
+    "shippingcost" : 28.16, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "DXL� Angle-View Binders with Locking Rings, Black"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8cb"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 499.99, 
+    "shippingcost" : 24.49, 
+    "category" : "Technology", 
+    "subcategory" : "Copiers and Fax", 
+    "name" : "Newell� 3-Hole Punched Plastic Slotted Magazine Holders for Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8cc"), 
+    "quantity" : NumberInt(28), 
+    "cost" : 20.98, 
+    "shippingcost" : 53.03, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "C-Line Cubicle Keepers Polyproplyene Holder w/Velcro� Back, 8-1/2x11, 25/Bx"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8cd"), 
+    "quantity" : NumberInt(40), 
+    "cost" : 30.53, 
+    "shippingcost" : 19.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Acco� Hot Clips� Clips to Go"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ce"), 
+    "quantity" : NumberInt(46), 
+    "cost" : 1.68, 
+    "shippingcost" : 1.57, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Fiskars� Softgrip Scissors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8cf"), 
+    "quantity" : NumberInt(19), 
+    "cost" : 270.98, 
+    "shippingcost" : NumberInt(50), 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Fellowes Neat Ideas� Storage Cubes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d0"), 
+    "quantity" : NumberInt(20), 
+    "cost" : 4.48, 
+    "shippingcost" : 1.22, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon� 200 Class� Desk Accessories"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d1"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 7.99, 
+    "shippingcost" : 5.03, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Master Giant Foot� Doorstop, Safety Yellow"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d2"), 
+    "quantity" : NumberInt(47), 
+    "cost" : 21.66, 
+    "shippingcost" : 13.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Perma STOR-ALL� Hanging File Box, 13 1/8"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d3"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 6.48, 
+    "shippingcost" : 8.88, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon� Expressions� Wood Desk Accessories, Oak"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d4"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 35.44, 
+    "shippingcost" : 7.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eureka The Boss� Cordless Rechargeable Stick Vac"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d5"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 15.99, 
+    "shippingcost" : 13.18, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Fellowes Bankers Box� Staxonsteel� Drawer File/Stacking System"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d6"), 
+    "quantity" : NumberInt(23), 
+    "cost" : 11.34, 
+    "shippingcost" : 5.01, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Global Adaptabilities� Conference Tables"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d7"), 
+    "quantity" : NumberInt(37), 
+    "cost" : 35.44, 
+    "shippingcost" : 5.09, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon Pizzaz� Desk Accessories"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d8"), 
+    "quantity" : NumberInt(1), 
+    "cost" : 30.98, 
+    "shippingcost" : 11.63, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Fellowes Strictly Business� Drawer File, Letter/Legal Size"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8d9"), 
+    "quantity" : NumberInt(42), 
+    "cost" : 34.54, 
+    "shippingcost" : 14.72, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Conquest� 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8da"), 
+    "quantity" : NumberInt(34), 
+    "cost" : 170.98, 
+    "shippingcost" : 60.49, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Hunt BOSTON� Vista� Battery-Operated Pencil Sharpener, Black"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8db"), 
+    "quantity" : NumberInt(15), 
+    "cost" : 20.95, 
+    "shippingcost" : NumberInt(4), 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Fellowes Super Stor/Drawer�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8dc"), 
+    "quantity" : NumberInt(48), 
+    "cost" : 207.48, 
+    "shippingcost" : 0.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Avery Hi-Liter� Fluorescent Desk Style Markers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8dd"), 
+    "quantity" : NumberInt(27), 
+    "cost" : 58.14, 
+    "shippingcost" : 36.61, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Hoover WindTunnel� Plus Canister Vacuum"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8de"), 
+    "quantity" : NumberInt(42), 
+    "cost" : 6.64, 
+    "shippingcost" : 4.95, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Belkin ErgoBoard� Keyboard"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8df"), 
+    "quantity" : NumberInt(39), 
+    "cost" : 145.45, 
+    "shippingcost" : 17.85, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Riverleaf Stik-Withit� Designer Note Cubes�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e0"), 
+    "quantity" : NumberInt(35), 
+    "cost" : 2.21, 
+    "shippingcost" : 1.12, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Deflect-o SuperTray� Unbreakable Stackable Tray, Letter, Black"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e1"), 
+    "quantity" : NumberInt(50), 
+    "cost" : 40.99, 
+    "shippingcost" : 17.48, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Hon iLevel� Computer Training Table"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e2"), 
+    "quantity" : NumberInt(18), 
+    "cost" : 243.98, 
+    "shippingcost" : 43.32, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Eldon� 200 Class� Desk Accessories, Burgundy"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e3"), 
+    "quantity" : NumberInt(42), 
+    "cost" : 39.98, 
+    "shippingcost" : 9.2, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "X-Rack� File for Hanging Folders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e4"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 12.58, 
+    "shippingcost" : 5.16, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Wausau Papers Astrobrights� Colored Envelopes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e5"), 
+    "quantity" : NumberInt(36), 
+    "cost" : 48.58, 
+    "shippingcost" : 54.11, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Hoover� Commercial Lightweight Upright Vacuum"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e6"), 
+    "quantity" : NumberInt(36), 
+    "cost" : 105.98, 
+    "shippingcost" : 13.99, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Eldon� 400 Class� Desk Accessories, Black Carbon"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e7"), 
+    "quantity" : NumberInt(4), 
+    "cost" : 7.04, 
+    "shippingcost" : 2.17, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Bretford �Just In Time� Height-Adjustable Multi-Task Work Tables"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e8"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 9.78, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Array� Parchment Paper, Assorted Colors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8e9"), 
+    "quantity" : NumberInt(17), 
+    "cost" : 12.22, 
+    "shippingcost" : 2.85, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "ACCOHIDE� Binder by Acco"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ea"), 
+    "quantity" : NumberInt(3), 
+    "cost" : 43.98, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Snap-A-Way� Black Print Carbonless Ruled Speed Letter, Triplicate"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8eb"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 34.76, 
+    "shippingcost" : 8.22, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Fellowes Super Stor/Drawer� Files"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ec"), 
+    "quantity" : NumberInt(29), 
+    "cost" : 55.99, 
+    "shippingcost" : NumberInt(5), 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Eureka Sanitaire � Multi-Pro Heavy-Duty Upright, Disposable Bags"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ed"), 
+    "quantity" : NumberInt(19), 
+    "cost" : 6.48, 
+    "shippingcost" : 6.57, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Hon 2090 �Pillow Soft� Series Mid Back Swivel/Tilt Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ee"), 
+    "quantity" : NumberInt(1), 
+    "cost" : 3.68, 
+    "shippingcost" : 1.32, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Scissors, Rulers and Trimmers", 
+    "name" : "Acco Perma� 3000 Stacking Storage Drawers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ef"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 218.75, 
+    "shippingcost" : 69.64, 
+    "category" : "Furniture", 
+    "subcategory" : "Tables", 
+    "name" : "Eldon� Gobal File Keepers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f0"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 2.78, 
+    "shippingcost" : 1.2, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Kensington 7 Outlet MasterPiece� HOMEOFFICE Power Control Center"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f1"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 155.99, 
+    "shippingcost" : 3.9, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Wilson Jones� Four-Pocket Poly Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f2"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 22.84, 
+    "shippingcost" : 16.87, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon Jumbo ProFile� Portable File Boxes Graphite/Black"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f3"), 
+    "quantity" : NumberInt(25), 
+    "cost" : 5.78, 
+    "shippingcost" : 8.09, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Kleencut� Forged Office Shears by Acme United Corporation"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f4"), 
+    "quantity" : NumberInt(20), 
+    "cost" : 6.7, 
+    "shippingcost" : 1.56, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Eldon Simplefile� Box Office�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f5"), 
+    "quantity" : NumberInt(4), 
+    "cost" : 1360.14, 
+    "shippingcost" : 14.7, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Eldon Spacemaker� Box, Quick-Snap Lid, Clear"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f6"), 
+    "quantity" : NumberInt(7), 
+    "cost" : 270.98, 
+    "shippingcost" : NumberInt(50), 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "DIXON Oriole� Pencils"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f7"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 20.97, 
+    "shippingcost" : 6.5, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Howard Miller 12-3/4 Diameter Accuwave DS � Wall Clock"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f8"), 
+    "quantity" : NumberInt(27), 
+    "cost" : 22.84, 
+    "shippingcost" : 16.87, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon Advantage� Chair Mats for Low to Medium Pile Carpets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8f9"), 
+    "quantity" : NumberInt(7), 
+    "cost" : 180.98, 
+    "shippingcost" : 26.2, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Tyvek � Top-Opening Peel & Seel Envelopes, Plain White"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8fa"), 
+    "quantity" : NumberInt(27), 
+    "cost" : 130.98, 
+    "shippingcost" : NumberInt(30), 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6� x 11�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8fb"), 
+    "quantity" : NumberInt(48), 
+    "cost" : 4.28, 
+    "shippingcost" : 5.17, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Global Commerce� Series High-Back Swivel/Tilt Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8fc"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 28.28, 
+    "shippingcost" : 13.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Wilson Jones Easy Flow II� Sheet Lifters"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8fd"), 
+    "quantity" : NumberInt(41), 
+    "cost" : 55.99, 
+    "shippingcost" : NumberInt(5), 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Bush Advantage Collection� Racetrack Conference Table"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8fe"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 3.8, 
+    "shippingcost" : 1.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Hon Comfortask� Task/Swivel Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d8ff"), 
+    "quantity" : NumberInt(15), 
+    "cost" : 30.73, 
+    "shippingcost" : NumberInt(4), 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Ampad #10 Peel & Seel� Holiday Envelopes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d900"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 125.99, 
+    "shippingcost" : 8.08, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Dixon Prang� Watercolor Pencils, 10-Color Set with Brush"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d901"), 
+    "quantity" : NumberInt(9), 
+    "cost" : 20.99, 
+    "shippingcost" : 0.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "GBC ProClick� 150 Presentation Binding System"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d902"), 
+    "quantity" : NumberInt(18), 
+    "cost" : 1270.99, 
+    "shippingcost" : 19.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Eldon Cleatmat Plus� Chair Mats for High Pile Carpets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d903"), 
+    "quantity" : NumberInt(21), 
+    "cost" : 11.97, 
+    "shippingcost" : 4.98, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Global Enterprise� Series Seating Low-Back Swivel/Tilt Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d904"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 12.28, 
+    "shippingcost" : 6.13, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Hon 2111 Invitation� Series Corner Table"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d905"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 39.24, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Ames Color-File� Green Diamond Border X-ray Mailers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d906"), 
+    "quantity" : NumberInt(2), 
+    "cost" : 17.98, 
+    "shippingcost" : 8.51, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Tuff Stuff� Recycled Round Ring Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d907"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 12.95, 
+    "shippingcost" : 4.98, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Eldon� Image Series Desk Accessories, Burgundy"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d908"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 1.68, 
+    "shippingcost" : 1.57, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Bush Advantage Collection� Round Conference Table"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d909"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 25.98, 
+    "shippingcost" : 14.36, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Wilson Jones �Snap� Scratch Pad Binder Tool for Ring Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d90a"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 59.78, 
+    "shippingcost" : 10.29, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Hoover Replacement Belts For Soft Guard� & Commercial Ltweight Upright Vacs, 2/Pk"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d90b"), 
+    "quantity" : NumberInt(33), 
+    "cost" : 20.99, 
+    "shippingcost" : 1.25, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "SimpliFile� Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d90c"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 1.68, 
+    "shippingcost" : 1.57, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Avery Hi-Liter� Smear-Safe Highlighters"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d90d"), 
+    "quantity" : NumberInt(17), 
+    "cost" : 36.55, 
+    "shippingcost" : 13.89, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Iris� 3-Drawer Stacking Bin, Black"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d90e"), 
+    "quantity" : NumberInt(35), 
+    "cost" : 55.99, 
+    "shippingcost" : 3.3, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Peel-Off� China Markers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d90f"), 
+    "quantity" : NumberInt(21), 
+    "cost" : 51.75, 
+    "shippingcost" : 19.99, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Deflect-O� Glasstique� Clear Desk Accessories"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d910"), 
+    "quantity" : NumberInt(16), 
+    "cost" : 55.29, 
+    "shippingcost" : 5.08, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Acme� Box Cutter Scissors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d911"), 
+    "quantity" : NumberInt(13), 
+    "cost" : 20.99, 
+    "shippingcost" : 3.3, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Adams Phone Message Book, 200 Message Capacity, 8 1/16� x 11�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d912"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 7.99, 
+    "shippingcost" : 5.03, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Avery Heavy-Duty EZD � Binder With Locking Rings"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d913"), 
+    "quantity" : NumberInt(2), 
+    "cost" : 7.64, 
+    "shippingcost" : 1.39, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Envelopes", 
+    "name" : "Avery� Durable Slant Ring Binders With Label Holder"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d914"), 
+    "quantity" : NumberInt(13), 
+    "cost" : 8.85, 
+    "shippingcost" : 5.6, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Binney & Smith inkTank� Erasable Desk Highlighter, Chisel Tip, Yellow, 12/Box"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d915"), 
+    "quantity" : NumberInt(16), 
+    "cost" : 6.48, 
+    "shippingcost" : 6.81, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Belkin 5 Outlet SurgeMaster� Power Centers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d916"), 
+    "quantity" : NumberInt(27), 
+    "cost" : 2.88, 
+    "shippingcost" : 0.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Boston 1799 Powerhouse� Electric Pencil Sharpener"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d917"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 880.98, 
+    "shippingcost" : 44.55, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Quartet Omega� Colored Chalk, 12/Pack"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d918"), 
+    "quantity" : NumberInt(14), 
+    "cost" : 200.97, 
+    "shippingcost" : 15.59, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Boston 16801 Nautilus� Battery Pencil Sharpener"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d919"), 
+    "quantity" : NumberInt(26), 
+    "cost" : 20.89, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Iceberg Mobile Mega Data/Printer Cart �"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d91a"), 
+    "quantity" : NumberInt(42), 
+    "cost" : 4.13, 
+    "shippingcost" : 0.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Avery Binding System Hidden Tab� Executive Style Index Sets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d91b"), 
+    "quantity" : NumberInt(38), 
+    "cost" : 2.78, 
+    "shippingcost" : 1.34, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Tyvek� Side-Opening Peel & Seel� Expanding Envelopes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d91c"), 
+    "quantity" : NumberInt(1), 
+    "cost" : 14.48, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "GBC Instant Index� System for Binding Systems"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d91d"), 
+    "quantity" : NumberInt(27), 
+    "cost" : 99.99, 
+    "shippingcost" : 19.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Park Ridge� Embossed Executive Business Envelopes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d91e"), 
+    "quantity" : NumberInt(2), 
+    "cost" : 4.98, 
+    "shippingcost" : 4.86, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Hon Pagoda� Stacking Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d91f"), 
+    "quantity" : NumberInt(43), 
+    "cost" : 195.99, 
+    "shippingcost" : 3.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Hot File� 7-Pocket, Floor Stand"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d920"), 
+    "quantity" : NumberInt(24), 
+    "cost" : 200.97, 
+    "shippingcost" : 15.59, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "EcoTones� Memo Sheets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d921"), 
+    "quantity" : NumberInt(23), 
+    "cost" : 40.97, 
+    "shippingcost" : 14.45, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "DIXON Ticonderoga� Erasable Checking Pencils"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d922"), 
+    "quantity" : NumberInt(17), 
+    "cost" : 349.45, 
+    "shippingcost" : NumberInt(60), 
+    "category" : "Furniture", 
+    "subcategory" : "Tables", 
+    "name" : "Bravo II� Megaboss� 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d923"), 
+    "quantity" : NumberInt(41), 
+    "cost" : 80.97, 
+    "shippingcost" : 33.6, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Acme� Forged Steel Scissors with Black Enamel Handles"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d924"), 
+    "quantity" : NumberInt(47), 
+    "cost" : 216.6, 
+    "shippingcost" : 64.2, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Ampad� Evidence� Wirebond Steno Books, 6"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d925"), 
+    "quantity" : NumberInt(26), 
+    "cost" : 140.81, 
+    "shippingcost" : 24.49, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Acme Galleria� Hot Forged Steel Scissors with Colored Handles"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d926"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 22.72, 
+    "shippingcost" : 8.99, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Acco D-Ring Binder w/DublLock�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d927"), 
+    "quantity" : NumberInt(22), 
+    "cost" : 19.98, 
+    "shippingcost" : 10.49, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Fellowes High-Stak� Drawer Files"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d928"), 
+    "quantity" : NumberInt(3), 
+    "cost" : 1500.97, 
+    "shippingcost" : 29.7, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Eldon Shelf Savers� Cubes and Bins"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d929"), 
+    "quantity" : NumberInt(29), 
+    "cost" : 20.95, 
+    "shippingcost" : NumberInt(4), 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Fellowes Bases and Tops For Staxonsteel�/High-Stak� Systems"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d92a"), 
+    "quantity" : NumberInt(26), 
+    "cost" : 23.99, 
+    "shippingcost" : 6.71, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Envelopes", 
+    "name" : "Recycled Interoffice Envelopes with Re-Use-A-Seal� Closure, 10 x 13"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d92b"), 
+    "quantity" : NumberInt(24), 
+    "cost" : 24.92, 
+    "shippingcost" : 12.98, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Avery� Durable Plastic 1"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d92c"), 
+    "quantity" : NumberInt(7), 
+    "cost" : 39.48, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Eldon� Expressions� Wood and Plastic Desk Accessories, Oak"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d92d"), 
+    "quantity" : NumberInt(15), 
+    "cost" : 38.76, 
+    "shippingcost" : 13.26, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Hunt Boston� Vacuum Mount KS Pencil Sharpener"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d92e"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 2.47, 
+    "shippingcost" : 1.02, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Rubber Bands", 
+    "name" : "Acme� Design Stainless Steel Bent Scissors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d92f"), 
+    "quantity" : NumberInt(22), 
+    "cost" : 33.94, 
+    "shippingcost" : 19.19, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Hoover Commercial Lightweight Upright Vacuum with E-Z Empty� Dirt Cup"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d930"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 8.33, 
+    "shippingcost" : 1.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Acme Kleencut� Forged Steel Scissors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d931"), 
+    "quantity" : NumberInt(36), 
+    "cost" : 18.97, 
+    "shippingcost" : 9.03, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "SAFCO Optional Arm Kit for Workspace� Cribbage Stacking Chair"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d932"), 
+    "quantity" : NumberInt(30), 
+    "cost" : 150.98, 
+    "shippingcost" : 66.27, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Acme� Elite Stainless Steel Scissors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d933"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 140.81, 
+    "shippingcost" : 24.49, 
+    "category" : "Furniture", 
+    "subcategory" : "Chairs & Chairmats", 
+    "name" : "Acme� Office Executive Series Stainless Steel Trimmers"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d934"), 
+    "quantity" : NumberInt(12), 
+    "cost" : 22.84, 
+    "shippingcost" : 5.47, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Binney & Smith Crayola� Metallic Colored Pencils, 8-Color Set"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d935"), 
+    "quantity" : NumberInt(20), 
+    "cost" : 34.76, 
+    "shippingcost" : 5.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Black Print Carbonless Snap-Off� Rapid Letter, 8 1/2"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d936"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 2.88, 
+    "shippingcost" : 0.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Advantus SlideClip� Paper Clips"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d937"), 
+    "quantity" : NumberInt(26), 
+    "cost" : 205.99, 
+    "shippingcost" : 5.26, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Tyvek � Top-Opening Peel & Seel � Envelopes, Gray"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d938"), 
+    "quantity" : NumberInt(8), 
+    "cost" : 5.4, 
+    "shippingcost" : 7.78, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Storex Dura Pro� Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d939"), 
+    "quantity" : NumberInt(10), 
+    "cost" : 8.46, 
+    "shippingcost" : 8.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Rogers� Profile Extra Capacity Storage Tub"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d93a"), 
+    "quantity" : NumberInt(22), 
+    "cost" : 14.98, 
+    "shippingcost" : 8.99, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Portfile� Personal File Boxes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d93b"), 
+    "quantity" : NumberInt(48), 
+    "cost" : 155.99, 
+    "shippingcost" : 8.08, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Hon Valutask� Swivel Chairs"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d93c"), 
+    "quantity" : NumberInt(1), 
+    "cost" : 25.38, 
+    "shippingcost" : 8.99, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Binney & Smith inkTank� Erasable Pocket Highlighter, Chisel Tip, Yellow"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d93d"), 
+    "quantity" : NumberInt(48), 
+    "cost" : 10.97, 
+    "shippingcost" : 6.5, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Trimflex� Flexible Post Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d93e"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 99.99, 
+    "shippingcost" : 19.99, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "BOSTON� Ranger� #55 Pencil Sharpener, Black"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d93f"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 20.99, 
+    "shippingcost" : 3.3, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "4009� Highlighters by Sanford"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d940"), 
+    "quantity" : NumberInt(3), 
+    "cost" : 19.99, 
+    "shippingcost" : 11.17, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Astroparche� Fine Business Paper"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d941"), 
+    "quantity" : NumberInt(37), 
+    "cost" : 150.98, 
+    "shippingcost" : 13.99, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Acco PRESSTEX� Data Binder with Storage Hooks, Dark Blue, 9 1/2"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d942"), 
+    "quantity" : NumberInt(48), 
+    "cost" : 370.98, 
+    "shippingcost" : NumberInt(99), 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Acco Keyboard-In-A-Box�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d943"), 
+    "quantity" : NumberInt(16), 
+    "cost" : 179.99, 
+    "shippingcost" : 13.99, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Post-it� �Important Message� Note Pad, Neon Colors, 50 Sheets/Pad"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d944"), 
+    "quantity" : NumberInt(32), 
+    "cost" : 10.89, 
+    "shippingcost" : 4.5, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Acco Smartsocket� Color-Coded Six-Outlet AC Adapter Model Surge Protectors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d945"), 
+    "quantity" : NumberInt(19), 
+    "cost" : 6.48, 
+    "shippingcost" : 6.6, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Polycom ViewStation� ISDN Videoconferencing Unit"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d946"), 
+    "quantity" : NumberInt(1), 
+    "cost" : 223.98, 
+    "shippingcost" : 15.01, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Master Big Foot� Doorstop, Beige"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d947"), 
+    "quantity" : NumberInt(34), 
+    "cost" : 140.98, 
+    "shippingcost" : 36.09, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Sanford EarthWrite� Recycled Pencils, Medium Soft, #2"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d948"), 
+    "quantity" : NumberInt(1), 
+    "cost" : 54.96, 
+    "shippingcost" : 10.75, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Eldon� 300 Class� Desk Accessories, Black"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d949"), 
+    "quantity" : NumberInt(47), 
+    "cost" : 1.26, 
+    "shippingcost" : 0.7, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Rubber Bands", 
+    "name" : "Acme� Preferred Stainless Steel Scissors"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d94a"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 4.98, 
+    "shippingcost" : 6.07, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Kensington 6 Outlet MasterPiece� HOMEOFFICE Power Control Center"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d94b"), 
+    "quantity" : NumberInt(19), 
+    "cost" : 18.99, 
+    "shippingcost" : 5.23, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Quartet Alpha� White Chalk, 12/Pack"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d94c"), 
+    "quantity" : NumberInt(37), 
+    "cost" : 46.89, 
+    "shippingcost" : 5.1, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Space Solutions� Industrial Galvanized Steel Shelving."
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d94d"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 4.98, 
+    "shippingcost" : 4.75, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Dixon Ticonderoga� Erasable Colored Pencil Set, 12-Color"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d94e"), 
+    "quantity" : NumberInt(2), 
+    "cost" : 415.88, 
+    "shippingcost" : 11.37, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Eldon Im�ge� Series Desk Accessories, Clear"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d94f"), 
+    "quantity" : NumberInt(15), 
+    "cost" : 65.99, 
+    "shippingcost" : 5.92, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Fellowes Officeware� Wire Shelving"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d950"), 
+    "quantity" : NumberInt(35), 
+    "cost" : 115.99, 
+    "shippingcost" : 2.5, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Eldon Expressions� Desk Accessory, Wood Photo Frame, Mahogany"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d951"), 
+    "quantity" : NumberInt(10), 
+    "cost" : 5.02, 
+    "shippingcost" : 5.14, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Eldon� 500 Class� Desk Accessories"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d952"), 
+    "quantity" : NumberInt(10), 
+    "cost" : 19.84, 
+    "shippingcost" : 4.1, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Pens & Art Supplies", 
+    "name" : "Sanford Prismacolor� Professional Thick Lead Art Pencils, 36-Color Set"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d953"), 
+    "quantity" : NumberInt(50), 
+    "cost" : 5.74, 
+    "shippingcost" : 5.01, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Fellowes Bankers Box� Stor/Drawer� Steel Plus�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d954"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 270.97, 
+    "shippingcost" : 28.06, 
+    "category" : "Technology", 
+    "subcategory" : "Office Machines", 
+    "name" : "Adams Telephone Message Books, 5 1/4� x 11�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d955"), 
+    "quantity" : NumberInt(22), 
+    "cost" : 260.98, 
+    "shippingcost" : 41.91, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Eldon Advantage� Foldable Chair Mats for Low Pile Carpets"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d956"), 
+    "quantity" : NumberInt(49), 
+    "cost" : 387.99, 
+    "shippingcost" : 19.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Avery� 3 1/2"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d957"), 
+    "quantity" : NumberInt(48), 
+    "cost" : 160.98, 
+    "shippingcost" : 35.02, 
+    "category" : "Furniture", 
+    "subcategory" : "Bookcases", 
+    "name" : "Sanford Pocket Accent� Highlighters"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d958"), 
+    "quantity" : NumberInt(11), 
+    "cost" : 3.08, 
+    "shippingcost" : 0.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Southworth Structures Collection�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d959"), 
+    "quantity" : NumberInt(35), 
+    "cost" : 499.99, 
+    "shippingcost" : 24.49, 
+    "category" : "Technology", 
+    "subcategory" : "Copiers and Fax", 
+    "name" : "Eureka The Boss� Plus 12-Amp Hard Box Upright Vacuum, Red"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d95a"), 
+    "quantity" : NumberInt(44), 
+    "cost" : 138.14, 
+    "shippingcost" : NumberInt(35), 
+    "category" : "Office Supplies", 
+    "subcategory" : "Storage & Organization", 
+    "name" : "Sanford Colorific� Eraseable Coloring Pencils, 12 Count"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d95b"), 
+    "quantity" : NumberInt(17), 
+    "cost" : 41.94, 
+    "shippingcost" : 2.99, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Binders and Binder Accessories", 
+    "name" : "Honeywell Enviracaire� Portable HEPA Air Cleaner for up to 10 x 16 Room"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d95c"), 
+    "quantity" : NumberInt(45), 
+    "cost" : 7.31, 
+    "shippingcost" : 0.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Labels", 
+    "name" : "Eldon� Executive Woodline II Desk Accessories, Mahogany"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d95d"), 
+    "quantity" : NumberInt(36), 
+    "cost" : 65.99, 
+    "shippingcost" : 3.9, 
+    "category" : "Technology", 
+    "subcategory" : "Telephones and Communication", 
+    "name" : "Kensington 4 Outlet MasterPiece� Compact Power Control Center"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d95e"), 
+    "quantity" : NumberInt(27), 
+    "cost" : 7.64, 
+    "shippingcost" : 5.83, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Paper", 
+    "name" : "Avery Hi-Liter� EverBold� Pen Style Fluorescent Highlighters, 4/Pack"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d95f"), 
+    "quantity" : NumberInt(6), 
+    "cost" : 40.97, 
+    "shippingcost" : 14.45, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "Desktop 3-Pocket Hot File�"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d960"), 
+    "quantity" : NumberInt(5), 
+    "cost" : 30.42, 
+    "shippingcost" : 8.65, 
+    "category" : "Technology", 
+    "subcategory" : "Computer Peripherals", 
+    "name" : "Acco Clips to Go� Binder Clips, 24 Clips in Two Sizes"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d961"), 
+    "quantity" : NumberInt(4), 
+    "cost" : 19.94, 
+    "shippingcost" : 14.87, 
+    "category" : "Furniture", 
+    "subcategory" : "Office Furnishings", 
+    "name" : "UniKeep� View Case Binders"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d962"), 
+    "quantity" : NumberInt(31), 
+    "cost" : 3.68, 
+    "shippingcost" : 1.32, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Scissors, Rulers and Trimmers", 
+    "name" : "Acco PRESSTEX� Data Binder with Storage Hooks, Dark Blue, 14 7/8"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d963"), 
+    "quantity" : NumberInt(26), 
+    "cost" : 11.97, 
+    "shippingcost" : 4.98, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Bush� Cubix Conference Tables, Fully Assembled"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d964"), 
+    "quantity" : NumberInt(12), 
+    "cost" : 300.65, 
+    "shippingcost" : 24.49, 
+    "category" : "Office Supplies", 
+    "subcategory" : "Appliances", 
+    "name" : "Sanford Uni-Blazer� View Highlighters, Chisel Tip, Yellow"
+}
+{ 
+    "_id" : ObjectId("5823b3a9ccfcf414a481d965")
+}

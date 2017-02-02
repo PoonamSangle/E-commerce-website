@@ -1,0 +1,290 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>InstaShop Home</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script
+	src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script src="js/sellerhome.js"></script>
+<link href="http://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="css/materialize.css"
+	media="screen,projection" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="text/javascript" src="js/materialize.min.js"></script>
+</head>
+
+<body ng-app="seller" ng-controller="sellerController">
+
+  <nav>
+    <div class="nav-wrapper">
+	<span class="brand-logo">InstaShop Home</span>
+	<ul class="right">
+      <li><a href="sellerlogout">Logout</a></li>
+    </ul>
+    </div>
+  </nav>
+
+<div class="container">
+	<div class="row"></div>
+    
+    <div class="row">
+      <ul class="tabs">
+        <li class="tab col s3 m1"><a href="#postItemDiv">Post Item</a></li>
+        <li class="tab col s3 m1"><a href="#myItemDiv" ng-click="loadItems()">My Items</a></li>
+        <li class="tab col s3 m1"><a href="#ordersDiv" ng-click="loadOrders()">Orders</a></li>
+      </ul>
+	</div>    
+
+	<div id="postItemDiv">
+		<div class="row">
+			<div class="col s12 m6 offset-m3">
+				<form id="postItemForm">
+					<div class="row">
+						<div class="input-field col s12">
+							<input id="item_name" type="text" name="name" class="validate" ng-model="new_item.name"/>
+							<label for="item_name">Item name</label>
+						</div>
+					</div>
+					<div class="row">
+						<div class="input-field col s12">
+							<input id="description" type="text" name="description" class="validate"  ng-model="new_item.description"/>
+							<label for="description">Description</label>
+						</div>
+					</div>
+					<div class="row">
+						<div class="input-field col s12">
+							<input id="cost" type="number" name="cost" class="validate" ng-model="new_item.cost"/>
+							<label for="cost">Cost</label>
+						</div>
+					</div>
+					<div class="row">
+						<div class="input-field col s12">
+							<input id="cost" type="number" name="shippingcost" class="validate" value="0" ng-model="new_item.shippingcost"/>
+							<label for="cost">Shipping Cost</label>
+						</div>
+					</div>
+					<div class="row">
+						<div class="input-field col s12">
+							<input id="quantity" type="number" name="quantity" class="validate" ng-model="new_item.quantity"/>
+							<label for="quantity">Quantity</label>
+						</div>
+					</div>
+					<div class="row">
+							<div class="input-field col s12">
+								<a class='dropdown-button btn' href='#'
+									data-activates='selcat'> {{ selectedCat == null ? 'Select Category' : selectedCat.name}}</a>
+								<input type="hidden" name="category" value="{{selectedCat.name}}"/>
+								<ul id='selcat' class='dropdown-content'>
+									<li ng-repeat="category in categories" 
+										ng-click="selectCategory(category)">
+										<a href="#!">{{category.name}}</a>
+									</li>
+								</ul>
+
+								<a class='dropdown-button btn' href='#' 
+									ng-hide="selectedCat == null"
+									data-activates='selsubcat'>{{ selectedSubCat == null ? 'Select Sub-Category' : selectedSubCat.name}}</a>
+								<input type="hidden" name="subcategory" value="{{selectedSubCat.name}}"/>
+								<ul id='selsubcat' class='dropdown-content'>
+									<li ng-repeat="subcat in selectedCat.subcategories" 
+										ng-click="selectSubCategory(subcat)">
+										<a href="#!">{{subcat.name}}</a>
+									</li>
+								</ul>
+
+							</div>
+						</div>
+					<button ng-click="publish()" type="button"  class="waves-effect waves-light btn">Publish</button>
+				</form>
+			</div>
+		</div>
+	</div>
+	
+		<div id="myItemDiv">
+			<div class="row">
+				<div ng-repeat="item in myitems"  class="row" style="margin-bottom: 0px">
+					<div class="card">
+					<div class="card-content">
+						<div class="row">
+								<div class="col s8">
+									<div class="card-title"> <span ng-hide="item.edit">{{item.name}}</span>
+										<div ng-show="item.edit"> 
+											<div class="input-field col s12">
+												<input id="item_name"
+													type="text" name="name" class="validate" ng-model="item.name" />
+												<label for="item_name">Item name</label>
+											</div>
+										</div>
+									</div>
+								</div>
+							<div class="col s4">
+								<span style="float: right;" ng-show="!item.edit"
+									class="btn" ng-click="item.edit = true">EDIT</span>
+								<span style="float: right;" ng-show="item.edit"
+									class="btn" ng-click="updateItem(item)">SAVE</span>
+							</div>
+							<div class="col s12">
+								<span ng-hide="item.edit">{{item.description}}</span>
+								<div ng-show="item.edit">
+								<div class="input-field col s12">
+									<input id="description" type="text" name="description" class="validate" 
+										ng-model="item.description"/>
+									<label for="description">Description</label>
+								</div>
+							</div>
+							
+							</div>
+						</div>
+						
+					</div>
+					<div class="card-action">
+						<div class="row" style="margin-bottom: 0px">
+							<div class="col s3">
+								<span>Category</span>
+								<b>{{item.category}}</b>
+							</div>
+							<div class="col s3">
+								<span>Sub Category</span>
+								<b>{{item.subcategory}}</b>
+							</div>
+							<div class="col s2">
+								<span ng-hide="item.edit">Cost</span>
+								<div>
+									<div ng-hide="item.edit">{{item.cost}}</div>
+									<div ng-show="item.edit">
+										<div class="input-field col s12">
+										<input id="cost" type="text" name="cost" class="validate" 
+											ng-model="item.cost"/>
+										<label for="cost">Cost</label>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col s2">
+								<span ng-hide="item.edit">Shipping Cost</span>
+								<div>
+									<div ng-hide="item.edit">{{item.shippingcost}}</div>
+									<div ng-show="item.edit">
+										<div class="input-field col s12">
+										<input id="shippingcost" type="text" name="shippingcost" class="validate" 
+											ng-model="item.shippingcost"/>
+										<label for="shippingcost">Shipping Cost</label>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col s2">
+								<span ng-hide="item.edit">Quantity</span>
+								<div>
+									<div ng-hide="item.edit">{{item.quantity}}</div>
+									<div ng-show="item.edit">
+										<div class="input-field col s12">
+										<input id="quantity" type="text" name="quantity" class="validate" 
+											ng-model="item.quantity"/>
+										<label for="quantity">Quantity</label>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+			
+			<div ng-show="myitems.length == 0">You have not posted any item yet!</div>
+		</div>
+		
+		<div id="ordersDiv">
+			<div class="row">
+      			<ul class="tabs">
+       				<li class="tab col s3 m1"><a href="#pendingOrdersDiv">Pending</a></li>
+        			<li class="tab col s3 m1"><a href="#deliveredOrdersDiv">Delivered</a></li>
+    		  	</ul>
+			</div>  
+			
+			<div id="pendingOrdersDiv">
+			<div class="row">
+				<div ng-repeat="order in orders | filter:'PLACED'"  class="row" style="margin-bottom: 0px">
+					<div class="card">
+					<div class="card-content">
+						<span class="card-title">
+							{{order.item[0].name}}
+						</span>
+						<p>{{order.item[0].description}}</p>
+					</div>
+					<div class="card-action">
+						<div class="row" style="margin-bottom: 0px">
+						<div class="row" style="margin-bottom: 0px">
+							<div class="col s3">
+								<span>Category</span>
+								<h5>{{order.item[0].category}}</h5>
+							</div>
+							<div class="col s3">
+								<span>Sub Category</span>
+								<h5>{{order.item[0].subcategory}}</h5>
+							</div>
+							<div class="col s3">
+								<span>Cost</span>
+								<h5>{{order.item[0].cost}}</h5>
+							</div>
+							<div class="col s3">
+								<span>Shipping Cost</span>
+								<h5>{{order.item[0].shippingcost}}</h5>
+							</div>
+						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div ng-show="orders.length == 0">You have not any orders yet!</div>
+		</div>
+		</div>
+		
+		<div id="deliveredOrdersDiv">
+			<div class="row">
+				<div ng-repeat="order in orders | filter:'DELIVERED'"  class="row" style="margin-bottom: 0px">
+					<div class="card">
+					<div class="card-content">
+						<span class="card-title">
+							{{order.item[0].name}}
+						</span>
+						<p>{{order.item[0].description}}</p>
+					</div>
+					<div class="card-action">
+						<div class="row" style="margin-bottom: 0px">
+						<div class="row" style="margin-bottom: 0px">
+							<div class="col s3">
+								<span>Category</span>
+								<h5>{{order.item[0].category}}</h5>
+							</div>
+							<div class="col s3">
+								<span>Sub Category</span>
+								<h5>{{order.item[0].subcategory}}</h5>
+							</div>
+							<div class="col s3">
+								<span>Cost</span>
+								<h5>{{order.item[0].cost}}</h5>
+							</div>
+							<div class="col s3">
+								<span>Shipping Cost</span>
+								<h5>{{order.item[0].shippingcost}}</h5>
+							</div>
+						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div ng-show="orders.length == 0">You have not any orders yet!</div>
+		</div>
+		</div>
+		
+	</div>
+</div>
+</body>
+
+</html>

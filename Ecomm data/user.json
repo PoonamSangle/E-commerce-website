@@ -1,0 +1,169 @@
+{ 
+    "_id" : ObjectId("580c11a6c011331f5835571c"), 
+    "sellername" : "Arcee Electronics", 
+    "ratings" : "0", 
+    "email" : "arcee@elec.com", 
+    "pass" : "pass", 
+    "type" : "seller", 
+    "address" : {
+        "streetaddress" : "123 Corbin Ave ", 
+        "city" : "Austin", 
+        "state" : "TX"
+    }
+}
+{ 
+    "_id" : ObjectId("580c11dfc011331f5835571d"), 
+    "customername" : "Prathamesh Jagtap", 
+    "email" : "prathamdj@unm.edu", 
+    "pass" : "pass", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "158 Tonnelle Ave, Fl 2", 
+        "city" : "Jersey City", 
+        "state" : "New Jersey"
+    }
+}
+{ 
+    "_id" : ObjectId("582021b4127b150f24ca940b"), 
+    "sellername" : "Prathamesh Jagtap", 
+    "email" : "prathamesh.d.jagtap@gmail.com", 
+    "pass" : "pass", 
+    "type" : "seller", 
+    "address" : {
+        "streetaddress" : "158 tonnelle ave, fl 2", 
+        "city" : "Jersey City", 
+        "state" : "NJ"
+    }
+}
+{ 
+    "_id" : ObjectId("582023c8c92d7e3700f4eb24"), 
+    "customername" : "Prathamesh Jagtap", 
+    "email" : "prathamesh.d.jagtap@gmail.com", 
+    "pass" : "pass", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "158 tonnelle ave, fl 2", 
+        "city" : "Jersey City", 
+        "state" : "NJ"
+    }
+}
+{ 
+    "_id" : ObjectId("58214f898b20ad2ff09d3db8"), 
+    "customername" : "Poonam Sangle", 
+    "email" : "poonamsangle19@gmail.com", 
+    "pass" : "123456", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "1115 Oregon Ave, Apt 8", 
+        "city" : "Beaumont", 
+        "state" : "TX"
+    }
+}
+{ 
+    "_id" : ObjectId("5821536bcc7cfe2b3ce476be"), 
+    "sellername" : "Poonam Sangle", 
+    "email" : "poonamsangle19@gmail.com", 
+    "pass" : "123456", 
+    "type" : "seller", 
+    "address" : {
+        "streetaddress" : "1115 Oregon Ave, Apt 8", 
+        "city" : "Beaumont", 
+        "state" : "TX"
+    }
+}
+{ 
+    "_id" : ObjectId("58215afdf595880c5052ca8e"), 
+    "customername" : "Vijay", 
+    "email" : "vijaypawar85@gmail.com", 
+    "pass" : "123456", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "595 E Virginia Ave # A,  TX 77705", 
+        "city" : "Beaumont,", 
+        "state" : "TX"
+    }
+}
+{ 
+    "_id" : ObjectId("58215bef9216602364fa58e5"), 
+    "customername" : "vijay", 
+    "email" : "vijaypawar85@gmail.com", 
+    "pass" : "Poo@5665", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "1115 oregon ave # 8", 
+        "city" : "BEAUMONt", 
+        "state" : "Texas"
+    }
+}
+{ 
+    "_id" : ObjectId("58215c079216602364fa58e6"), 
+    "customername" : "vijay", 
+    "email" : "prashantbarve7777@gmail.com", 
+    "pass" : "Poo@5665", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "1145 Oregon ave # 8", 
+        "city" : "BEAUMONt", 
+        "state" : "Texas"
+    }
+}
+{ 
+    "_id" : ObjectId("58215c079216602364fa58e7"), 
+    "customername" : "vijay", 
+    "email" : "prashantbarve7777@gmail.com", 
+    "pass" : "Poo@5665", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "1145 Oregon ave # 8", 
+        "city" : "BEAUMONt", 
+        "state" : "Texas"
+    }
+}
+{ 
+    "_id" : ObjectId("58217b056f99301aacd8f1c2"), 
+    "customername" : "jhon", 
+    "email" : "jhon@usa.com", 
+    "pass" : "1111", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "uda", 
+        "city" : "beaumont", 
+        "state" : "tx"
+    }
+}
+{ 
+    "_id" : ObjectId("582181396f99301aacd8f1c4"), 
+    "sellername" : "seller1", 
+    "email" : "seller1@usa.com", 
+    "pass" : "1111", 
+    "type" : "seller", 
+    "address" : {
+        "streetaddress" : "uda", 
+        "city" : "Beaumont ", 
+        "state" : "tx"
+    }
+}
+{ 
+    "_id" : ObjectId("5821f8a0a1e5893cf43b819e"), 
+    "customername" : "seller", 
+    "email" : "seller1@usa.com", 
+    "pass" : "1111", 
+    "type" : "customer", 
+    "address" : {
+        "streetaddress" : "cheek", 
+        "city" : "beaumont", 
+        "state" : "tx"
+    }
+}
+{ 
+    "_id" : ObjectId("5821f94ca1e5893cf43b819f"), 
+    "sellername" : "seller2", 
+    "email" : "seller2@gmail.com", 
+    "pass" : "1111", 
+    "type" : "seller", 
+    "address" : {
+        "streetaddress" : "beaumont", 
+        "city" : "beaumont", 
+        "state" : "tx"
+    }
+}

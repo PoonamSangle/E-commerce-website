@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>InstaShop Home</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script
+	src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script src="js/cart.js"></script>
+<link href="http://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="css/materialize.min.css"
+	media="screen,projection" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="text/javascript" src="js/materialize.min.js"></script>
+</head>
+
+<body ng-app="cart" ng-controller="cartController">
+
+  <nav>
+    <div class="nav-wrapper">
+	<span class="brand-logo">InstaShop</span>
+	<ul class="right">
+      <li><a href="customerhome.html">Search</a></li>
+      <li><a href="cart.html">Cart</a></li>
+      <li><a href="customerorder.html">Orders</a></li>
+      <li><a href="customerlogout">Logout</a></li>
+    </ul>
+    </div>
+  </nav>
+
+<div class="container">
+	
+		<div class="row"></div>
+
+		<div class="row">
+		<div id="cartDiv" class="col s12 m8">
+			<div ng-repeat="order in cartOrders" class="row"
+				style="margin-bottom: 0px">
+				<div class="card">
+					<div class="card-content">
+						<div class="card-title" style="width: 100%"> {{order.item[0].name}} </div>
+						<div>
+							<button class="waves-effect waves-light btn" style="float: right;">Remove</button>
+							<span>
+								<span style="font-size: 9px">${{order.item[0].cost}} + ${{order.item[0].shippingcost}} = </span>
+								<strong>${{(order.item[0].cost + order.item[0].shippingcost)| number:2}}</strong>
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div ng-show="cartOrders.length == 0">
+				You don't have anything in cart! <a href="customerhome.html">Shop!</a>
+			</div>
+			<div class="row"></div>
+		</div>
+
+			<div class="col offset-m1 m3 s12" ng-hide="cartOrders.length == 0">
+				<h5>Shipping address</h5>
+				<form id="checkForm">
+					<input name="street_address" placeholder="Street address"> 
+					<input name="city" placeholder="City">
+					<input name="state" placeholder="State">
+					<input name="zip" placeholder="zip code"/>
+
+					<div>
+						<p class="ng-binding">Total: {{cartSum()| number:2}}</p>
+						<button ng-click="checkout()" class="waves-effect waves-light btn">Checkout</button>
+					</div>
+				</form>
+			</div>
+		</div>
+
+	</div>
+
+</body>
+
+</html>
